@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/Matrix-black?style=for-the-badge&logo=matrix&logoColor=white" alt="Matrix Badge"/>
     </a>
     <a href="https://pm.schizo.gr/users/avitld2">
-      <img src="https://img.shields.io/badge/Pleroma-darkgreen?style=for-the-badge&logo=pleroma&logoColor=white" alt="Pleroma Badge"/>
+      <img src="https://img.shields.io/badge/Akkoma-purple?style=for-the-badge&logo=pleroma&logoColor=white" alt="Akkoma Badge"/>
     </a>
   </div>
   <h1>Welcome to my profile</h1>
